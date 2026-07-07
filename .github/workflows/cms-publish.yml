@@ -1,0 +1,38 @@
+name: CMS Publish
+
+on:
+  workflow_dispatch:
+    inputs:
+      content_id:
+        description: CMS content UUID
+        required: true
+      gcs_path:
+        description: GCS path to the content file
+        required: true
+      content_type:
+        description: Content type (upload/faq/scrape)
+        required: true
+
+jobs:
+  staging-gate:
+    name: Deploy to Staging
+    runs-on: ubuntu-latest
+    environment: staging
+    steps:
+      - name: Log deployment
+        run: |
+          echo "content_id : ${{ inputs.content_id }}"
+          echo "gcs_path   : ${{ inputs.gcs_path }}"
+          echo "content_type: ${{ inputs.content_type }}"
+          echo "Staging gate passed ✓"
+
+  production-gate:
+    name: Deploy to Production
+    runs-on: ubuntu-latest
+    needs: staging-gate
+    environment: production
+    steps:
+      - name: Log deployment
+        run: |
+          echo "content_id : ${{ inputs.content_id }}"
+          echo "Publishing to production ✓"
