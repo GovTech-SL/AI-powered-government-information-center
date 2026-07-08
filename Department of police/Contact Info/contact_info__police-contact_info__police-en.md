@@ -13,7 +13,7 @@ Telephone Index
 Snr.DIG - 
 Central Province 
 Snr. DIG Pathinayake L.S. 
-081-2223940 
+081-44564447
  sdig.cp@police.gov.lk 
 
 Snr.DIG - Administration 
