@@ -6,7 +6,7 @@ International Software Testing Qualifications Board
  
  ddddddddddddddddd
  
- 
+ fffffff
 Certified Tester 
  
 Foundation Level Specialist Syllabus 
