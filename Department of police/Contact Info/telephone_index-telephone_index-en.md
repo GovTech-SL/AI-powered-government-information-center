@@ -7,22 +7,18 @@
 ### Additional Help
 For further assistance, you may contact the Police Hotline:
 - Phone: (+94) 11 2421111
-- Hours: [insert hours]
-- Languages supported: [insert languages]
-- Cost of contact: [insert cost]
-- Expected response time: [insert response time] 
- 
+- Languages supported: English
+
  
 Telephone Index 
  
 
 Senior Deputy Inspector General of Police (a high-ranking police officer) - 
-Central 
-Province 
-Snr. Deputy Inspector General of Police (a senior police officer) 
-Pathinayake L.S. 
+
+Central Province 
+Snr. Deputy Inspector General of Police (a senior police officer)  Pathinayake L.S. 
 081-2223940 
- sdig.cp@police.gov.lk 
+sdig.cp@police.gov.lk 
 
 Snr.DIG - Administration 
 Snr. DIG 
