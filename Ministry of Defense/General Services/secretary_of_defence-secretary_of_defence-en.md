@@ -1,0 +1,20 @@
+# Scraped Content
+
+**Source:** https://www.defence.lk/Profile/secretary_defence
+**Title:** Ministry of Defence - Sri Lanka
+
+---
+
+# Air Vice Marshal Sampath Thuyacontha (Retd) WWV, RWP and two Bars, RSP and Bar, USP, MMSc (Strat Stu-China), MSc (Def Stu) in Mgt, MSc (Def & Strat Stu), fndu (China), psc Secretary, Ministry of Defence
+
+Air Vice Marshal Sampath Thuyacontha, a decorated war veteran and seasoned military leader, was appointed as the Secretary, Ministry of Defence, on 23 rd September 2024, bringing his wealth of experience and dedication to one of the nation's highest defence positions. Born on November 26, 1966, in Colombo, AVM Thuyacontha is a proud product of Thurstan College, Colombo, where he excelled in rugby, representing both his school's 1 st XV team and the Combined Colombo Schools Rugby Team. Further, he was awarded with school Rugby Colors in year 1985.
+
+AVM Thuyacontha's illustrious military career commenced on May 17, 1988, when he joined the Sri Lanka Air Force as an Officer Cadet. His exceptional skills and leadership qualities quickly became apparent as he rose through the ranks, earning numerous accolades for his bravery and strategic expertise. Throughout his career, AVM Thuyacontha has been at the forefront of Sri Lanka's most critical military operations, including the Humanitarian Operations to liberate the North and East from the cruel clutches of ruthless terrorism. His courage and tactical expertise in the face of enemy fire earned him the nation's gratitude and military honours: the Weera Wickrama Vibhushanaya (WWV), Rana Wickrama Padakkama (RWP) three times, and Rana Sura Padakkama (RSP) twice.
+
+As a helicopter pilot, AVM Thuyacontha has logged over 7,000 flying hours in various roles, including operational, VIP, and attack helicopter missions. His expertise in aerial warfare and his leadership as the Commanding Officer of the No. 09 Attack Helicopter Squadron were instrumental in numerous successful operations. AVM Thuyacontha's career is marked by a series of high-profile appointments that showcase his versatility and strategic vision. He served as Defence Adviser to the High Commission of Sri Lanka in Islamabad, Pakistan from 2009 to 2011, followed by assignments as Base Commander of Sri Lanka Air Force Base Anuradhapura in 2013 and Chief Instructor at the Defence Service Command and Staff College, Sapugaskanda in 2014.
+
+In 2017, AVM Thuyacontha was appointed as the Commandant of the Sri Lanka Air Force Academy, China Bay, before taking on the appointment of Base Commander at Sri Lanka Air Force Base Katunayake from 2017 to 2020. During his tenure at the helm of Sri Lanka Air Force Base Katunayake, he also held the position of Overall Officer Commanding Air Defence. In 2020, he made history by becoming the first-ever officiating Southern Air Commander of the Sri Lanka Air Force. Prior to his appointment as Secretary Defence, he served as the Director Training at Sri Lanka Air Force Headquarters. His leadership extends beyond military service, as he had also held the Chairman appointments of the Sri Lanka Air Force Hockey and Athletics Associations during his service, demonstrating his commitment to sports and community involvement.
+
+AVM Thuyacontha's commitment to continuous learning is evident in his impressive academic credentials. He holds an MMSc in Strategic Studies from China, an MSc in Defence Studies in Management, and an MSc in Defence and Strategic Studies. He is also a graduate of the prestigious National Defence College in Beijing, China, further enhancing his strategic and diplomatic capabilities. AVM Thuyacontha is married and is a proud father of three daughters.
+
+As the Secretary Defence, Air Vice Marshal Sampath Thuyacontha brings a unique combination of combat experience, strategic insight, and unwavering patriotism to safeguard and advance Sri Lanka's national security interests. With his extensive background in military operations, leadership, and strategic planning, AVM Thuyacontha is well-positioned to guide Sri Lanka's defence policies and ensure the nation's security in an ever-changing security landscape.
